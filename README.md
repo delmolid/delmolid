@@ -1,12 +1,12 @@
-# 👋 Bonjour, je suis Molid Nour Awaleh
-# 🎯 Objectif : Recherche d'alternance dès juin 2025  
-## (Rythme : 4 jours en entreprise / 1 jour en formation)
+# 👋 Bonjour, je suis Molid Nour Awaleh 
+# 🎯 Objectif : je suis à la recherche une offre d'alternance pour valider ma formation de Développeur fullstack  
+# 📆 Disponibilité : dès juin 2025
+## Rythme : 4 jours en entreprise / 1 jour en formation
 
 ---
 
 
-
-Passionné par le développement web et en reconversion professionnelle après 4 ans d’expérience en biologie santé, je me spécialise en tant que développeur fullstack. Grâce à mon esprit analytique et ma curiosité, je m’engage pleinement dans la création d’applications dynamiques et fonctionnelles.
+Passionné par le développement web, je m’interessé pleinement dans la création d’applications dynamiques et fonctionnelles.
 
 ---
 
@@ -31,34 +31,31 @@ Passionné par le développement web et en reconversion professionnelle après 4
 ### **Outils**
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://github.com/delmolid/delmolid/blob/main/github-original-wordmark.webp" alt="GitHub" height="40" />
+  <img src="https://raw.githubusercontent.com/delmolid/delmolid/refs/heads/main/github-original-wordmark.webp" alt="GitHub" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" height="40" />
-  <img src="https://github.com/delmolid/delmolid/blob/main/brunologo.webp" alt="Bruno" height="40" />
+  <img src="https://raw.githubusercontent.com/delmolid/delmolid/refs/heads/main/brunologo.webp" alt="Bruno" height="40" width="auto" />
 </div>
 
 ---
 
 ## 🛠️ Projets notables
 
-### 🔹 **Pokeworld**
+### 🔹 **DATAVIZ&API/Pokeworld**
 - **Description** : Application web dynamique pour visualiser les Pokémon grâce à une API REST.
 - **Technologies utilisées** : HTML, CSS, JavaScript.
-- [🔗 Démo](https://delmolid.github.io/Pokeworld)
+- [🔗 Démo](https://delmolid.github.io/)
 
 ### 🔹 **Quiz interactif**
 - **Description** : Une application de quiz sur l’histoire de France et les capitales du monde.
 - **Technologies utilisées** : HTML, CSS, JavaScript.
 - [🔗 Démo](https://delmolid.github.io/projet-collectif-nantes-quizz-geo-quizzzz)
 
-### 🔹 **Dataviz & API**
-- **Description** : Application de visualisation de données basée sur une API REST.
-- **Technologies utilisées** : HTML, CSS, JavaScript.
 
 ---
 
 ## 💼 Expérience professionnelle
 - **Chargé de biobanque** @ Assistance Publiques de Hôpitaux de Paris (2020 - 2024)
-- **Ingénieur de recherche (Stage)** @ Institut Pasteur (2019)
+- **Ingénieur de recherche (Stage)** @ Institut Pasteur (6 mois- 2019)
 
 ---
 
@@ -70,26 +67,13 @@ Passionné par le développement web et en reconversion professionnelle après 4
 ---
 
 ## 📫 Contact
-- 📧 Email : [delmolid@hotmail.fr](mailto:delmolid@hotmail.fr)  
-- 🌐 Portfolio : [delmolid.github.io](https://delmolid.github.io/)  
+- 📧 Email : [delmolid@hotmail.fr](mailto:delmolid@hotmail.fr)   
 - 💼 LinkedIn : [linkedin.com/in/molidnourawaleh](https://www.linkedin.com/in/molidnourawaleh)  
 - 🧑‍💻 GitHub : [github.com/delmolid](https://github.com/delmolid)
 
 ---
 
-🎯 Toujours motivé à apprendre et relever de nouveaux défis, je suis disponible pour collaborer sur des projets passionnants !
-
+Par mon investissement et mon appétence pour la résolution des problèmes, je contribuerai activement au succès des projets de votre entreprise au cours de mon alternance.
 <!--
-**delmolid/delmolid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
