@@ -1,10 +1,10 @@
-## Hi there 👋
+# 👋 Bonjour, je suis Molid Nour Awaleh
 # 🎯 Objectif : Recherche d'alternance dès juin 2025  
 ## (Rythme : 4 jours en entreprise / 1 jour en formation)
 
 ---
 
-# 👋 Bonjour, je suis Molid Nour Awaleh
+
 
 Passionné par le développement web et en reconversion professionnelle après 4 ans d’expérience en biologie santé, je me spécialise en tant que développeur fullstack. Grâce à mon esprit analytique et ma curiosité, je m’engage pleinement dans la création d’applications dynamiques et fonctionnelles.
 
