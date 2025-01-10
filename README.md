@@ -31,9 +31,9 @@ Passionné par le développement web et en reconversion professionnelle après 4
 ### **Outils**
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" height="40" />
-  <img src="https://bruno.is/assets/logo-bruno-dark.svg" alt="Bruno" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Bruno.svg" />
 </div>
 
 ---
