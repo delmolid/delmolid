@@ -1,12 +1,12 @@
 # Bonjour, je suis Molid Nour Awaleh 
 # 🎯 Objectif : je suis à la recherche une offre d'alternance pour valider ma formation de Développeur fullstack  
-# 📆 Disponibilité : dès juillet 2025
-## Rythme : 4 jours en entreprise / 1 jour en formation
+# 📆 Disponibilité : dès juin 2025
+## Rythme :  4 à 6 semaines en entreprise et 2 semaines en formation
 
 ---
 
 
-Passionné par le développement web, je m’interessé pleinement dans la création d’applications dynamiques et fonctionnelles.
+Passionné par le développement d'applications, je m’interessé pleinement dans la création d’applications dynamiques et fonctionnelles.
 
 ---
 
