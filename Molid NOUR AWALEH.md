@@ -10,6 +10,15 @@ Passionné par le développement web, je m’interessé pleinement dans la créa
 
 ---
 
+## 📊 GitHub Stats
+
+![Molid's GitHub stats](https://github-readme-stats.vercel.app/api?username=delmolid&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delmolid&layout=compact&theme=tokyonight)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=delmolid&theme=tokyonight)](https://git.io/streak-stats)
+
+
 ## 🚀 Compétences techniques
 
 ### **Langages & Frameworks**
