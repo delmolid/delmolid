@@ -1,14 +1,24 @@
-# 👋 Bonjour, je suis Molid Nour Awaleh 
+# Bonjour, je suis Molid Nour Awaleh 
 # 🎯 Objectif : je suis à la recherche une offre d'alternance pour valider ma formation de Développeur fullstack  
 # 📆 Disponibilité : dès juin 2025
-## Rythme : 4 jours en entreprise / 1 jour en formation
+## Rythme :  4 à 6 semaines en entreprise et 2 semaines en formation
 
 ---
 
 
-Passionné par le développement web, je m’interessé pleinement dans la création d’applications dynamiques et fonctionnelles.
+Passionné par le développement d'applications, je m’interessé pleinement dans la création d’applications dynamiques et fonctionnelles.
 
 ---
+
+## 📊 GitHub Stats
+
+![Molid's GitHub stats](https://github-readme-stats.vercel.app/api?username=delmolid&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delmolid&layout=compact&theme=tokyonight)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=delmolid&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+
 
 ## 🚀 Compétences techniques
 
@@ -24,7 +34,11 @@ Passionné par le développement web, je m’interessé pleinement dans la créa
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="40" />
 </div>
+
 
 ---
 
@@ -75,5 +89,8 @@ Passionné par le développement web, je m’interessé pleinement dans la créa
 
 Par mon investissement et mon appétence pour la résolution des problèmes, je contribuerai activement au succès des projets de votre entreprise au cours de mon alternance.
 <!--
+
+
+
 
 
