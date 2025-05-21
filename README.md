@@ -43,7 +43,6 @@ Top Langs
 
 Français : Bilingue (C2)
 Anglais : Intermédiaire avancé (B2)
-Somalien : Langue maternelle
 📫 Contact
 
 📧 Email : delmolid@hotmail.fr
