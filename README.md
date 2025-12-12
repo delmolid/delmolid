@@ -37,7 +37,7 @@ Top Langs
 🚀 Compétences techniques en Base de données:
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/postgresql-original.svg" alt="POSTGRESQL" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/postgresql/postgresql-original.svg" alt="POSTGRESQL" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="40" />
 </div>
 
