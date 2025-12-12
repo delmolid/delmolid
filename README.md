@@ -9,8 +9,6 @@ Top Langs
 
 ![Molid's GitHub stats](https://github-readme-stats.vercel.app/api?username=delmolid&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delmolid&layout=compact&theme=tokyonight)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=delmolid&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 
