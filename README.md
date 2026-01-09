@@ -13,9 +13,9 @@ Top Langs
 
 
 
-## 🚀 Compétences techniques
+##  Compétences techniques
 
-🚀 Compétences techniques en Front-End:
+ Compétences techniques en Front-End:
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="40" />
@@ -26,7 +26,7 @@ Top Langs
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" height="40" />
 </div>
 
-🚀 Compétences techniques en Back-End:
+ Compétences techniques en Back-End:
 
  <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="40" /> 
@@ -34,7 +34,7 @@ Top Langs
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/go/go-original.svg" alt="Go" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" height="40" />
 </div>
-🚀 Compétences techniques en Base de données:
+ Compétences techniques en Base de données:
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/postgresql/postgresql-original.svg" alt="POSTGRESQL" height="40" />
@@ -52,7 +52,7 @@ Anglais : Intermédiaire avancé (B2)
 📧 Email : delmolid@hotmail.fr
 💼 LinkedIn : linkedin.com/in/molidnourawaleh
 🧑‍💻 GitHub : github.com/delmolid
-Par mon investissement et mon appétence pour la résolution des problèmes, je contribuerai activement au succès des projets de votre entreprise au cours de mon alternance.
+
 <!--
 
 
