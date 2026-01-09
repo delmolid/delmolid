@@ -4,7 +4,7 @@ Passionné par le développement d'applications, je m’interessé pleinement da
 
 ## 📊 GitHub Stats
 
-![Molid's GitHub stats](https://github-readme-stats.vercel.app/api?username=delmolid&show_icons=true&theme=tokyonight)
+![Molid's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=delmolid&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delmolid&layout=compact&theme=tokyonight)
 
