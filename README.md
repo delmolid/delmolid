@@ -2,14 +2,13 @@ Bonjour, je suis Molid Nour Awaleh
 
 Passionné par le développement d'applications, je m’interessé pleinement dans la création d’applications dynamiques et fonctionnelles.
 
-
-Top Langs
-
 ## 📊 GitHub Stats
 
 ![Molid's GitHub stats](https://github-readme-stats.vercel.app/api?username=delmolid&show_icons=true&theme=tokyonight)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=delmolid&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delmolid&layout=compact&theme=tokyonight)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=delmolid&theme=tokyonight)](https://git.io/streak-stats)
 
 
 
